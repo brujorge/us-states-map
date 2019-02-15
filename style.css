@@ -1,0 +1,23 @@
+.map-tooltip { 
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;      
+	text-align: center;           
+	width: 100px;
+	height: 50px;                 
+	padding: 2px;             
+	font: 12px sans-serif;        
+	background: #252A2C;   
+	border: 0px;  
+	pointer-events: none;  
+}
+
+.map-tooltip-lawyers,
+.map-tooltip-state {
+	color: white;
+	font-weight: bold;
+	margin: 0;
+}
+        
