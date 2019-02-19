@@ -1568,7 +1568,7 @@
     {
       "type": "Feature",
       "id": "11",
-      "properties": { "name": "District of Columbia" },
+      "properties": { "name": "District of Columbia", "lawyers": 50 },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
